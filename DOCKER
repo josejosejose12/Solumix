@@ -1,0 +1,8 @@
+Una imagen es un comprimido de una aplicacion con todo los necesario para funcionar, es portable y autonoma.
+Portable es que puede pasarse de un ordenador a otro.
+Autonoma significa que la compatibilidad no depende de tu SO.
+Por ejemplo una imagen puede ser mysql con un linux dentro.
+Una imagen es un archivo binario con todo lo necesario para crear una instancia. Es como una plantilla para crear un contenedor
+
+
+el contenedor es una instancia de una imagen.
