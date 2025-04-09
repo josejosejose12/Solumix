@@ -57,3 +57,6 @@ Gracias por confiar en **Solumix**. Estamos aquí para ayudarle a llevar su nego
 ---
 
 *Este README es ficticio y ha sido creado para fines de demostración.*
+
+
+ESTE COMMIT SE HA HECHO DESDE VS CODE
