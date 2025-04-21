@@ -1,5 +1,8 @@
 # 🌟 Solumix 🌟
+
+Solumix es lo mejor que vas a ver hoy.
 no copiesssss ;p
+
 <p align="center">
   <img src="https://64.media.tumblr.com/924791f6b6198600438e5d760b436396/tumblr_olb0ik43pt1v5sy38o2_r1_500.jpg" alt="Solumix Logo">
 </p>
@@ -57,3 +60,8 @@ Gracias por confiar en **Solumix**. Estamos aquí para ayudarle a llevar su nego
 ---
 
 *Este README es ficticio y ha sido creado para fines de demostración.*
+
+
+ESTE COMMIT SE HA HECHO DESDE VS CODE
+
+# angela....
